@@ -1,0 +1,15 @@
+C:\Users\Fateh\source\repos\arraytask\arraytask\bin\Debug\net6.0\arraytask.exe
+C:\Users\Fateh\source\repos\arraytask\arraytask\bin\Debug\net6.0\arraytask.deps.json
+C:\Users\Fateh\source\repos\arraytask\arraytask\bin\Debug\net6.0\arraytask.runtimeconfig.json
+C:\Users\Fateh\source\repos\arraytask\arraytask\bin\Debug\net6.0\arraytask.dll
+C:\Users\Fateh\source\repos\arraytask\arraytask\bin\Debug\net6.0\arraytask.pdb
+C:\Users\Fateh\source\repos\arraytask\arraytask\obj\Debug\net6.0\arraytask.csproj.AssemblyReference.cache
+C:\Users\Fateh\source\repos\arraytask\arraytask\obj\Debug\net6.0\arraytask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fateh\source\repos\arraytask\arraytask\obj\Debug\net6.0\arraytask.AssemblyInfoInputs.cache
+C:\Users\Fateh\source\repos\arraytask\arraytask\obj\Debug\net6.0\arraytask.AssemblyInfo.cs
+C:\Users\Fateh\source\repos\arraytask\arraytask\obj\Debug\net6.0\arraytask.csproj.CoreCompileInputs.cache
+C:\Users\Fateh\source\repos\arraytask\arraytask\obj\Debug\net6.0\arraytask.dll
+C:\Users\Fateh\source\repos\arraytask\arraytask\obj\Debug\net6.0\refint\arraytask.dll
+C:\Users\Fateh\source\repos\arraytask\arraytask\obj\Debug\net6.0\arraytask.pdb
+C:\Users\Fateh\source\repos\arraytask\arraytask\obj\Debug\net6.0\arraytask.genruntimeconfig.cache
+C:\Users\Fateh\source\repos\arraytask\arraytask\obj\Debug\net6.0\ref\arraytask.dll
